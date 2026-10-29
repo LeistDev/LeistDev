@@ -1,0 +1,393 @@
+{
+ "key": "d92aebfd",
+ "stars": 0,
+ "contributions": 577,
+ "repos": 13,
+ "followers": 12,
+ "languages": [
+  [
+   "Python",
+   341526
+  ],
+  [
+   "Java",
+   265275
+  ],
+  [
+   "HTML",
+   120253
+  ],
+  [
+   "JavaScript",
+   117720
+  ],
+  [
+   "CSS",
+   11120
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 15,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 11,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 16,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 22,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 12,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 10,
+    "day": 29,
+    "today": true
+   },
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 4,
+  "longest": 13
+ },
+ "pins": [
+  {
+   "name": "FileCLI",
+   "url": "https://github.com/LeistDev/FileCLI",
+   "text": "Merge selected project files into a single .txt for LLM context (ChatGPT, Claude, Gemini). Zero dependencies, Drag & Drop, remembers your file selection",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "ai",
+    "chat",
+    "chatgpt",
+    "claude",
+    "context",
+    "deepseek",
+    "ernie",
+    "files",
+    "gemini",
+    "gemma"
+   ]
+  },
+  {
+   "name": "PromptCraft",
+   "url": "https://github.com/LeistDev/PromptCraft",
+   "text": "Script that allows AI to create structures in Minecraft",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": [
+    "ai",
+    "artificial-intelligence",
+    "automation",
+    "automatizacion",
+    "build",
+    "builder",
+    "minecraft"
+   ]
+  },
+  {
+   "name": "SVGify",
+   "url": "https://github.com/LeistDev/SVGify",
+   "text": "CLI tool for fast logo-to-SVG conversion",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "ZeroExif",
+   "url": "https://github.com/LeistDev/ZeroExif",
+   "text": "Strip EXIF, GPS, XMP & ICC metadata from images. Selective or full removal. Supports JPG, PNG, WebP, BMP, TIFF. Drag & Drop, Termux-compatible",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "cleaner",
+    "exif",
+    "exiftool",
+    "linux",
+    "python",
+    "remove",
+    "script",
+    "termux",
+    "tui"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "GitVPN",
+   "url": "https://github.com/LeistDev/GitVPN",
+   "text": "Script that collects VPN configs from various repos",
+   "fork": true,
+   "stars": 2,
+   "language": "Python",
+   "topics": [
+    "free",
+    "github",
+    "termux",
+    "vpn"
+   ]
+  },
+  {
+   "name": "arena-model-hunter",
+   "url": "https://github.com/LeistDev/arena-model-hunter",
+   "text": "Model hunter for arena.ai: run agent chats, fingerprint the model, rename the chat, keep the one you were hunting for.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "lm-detector",
+   "url": "https://github.com/LeistDev/lm-detector",
+   "text": "Model fingerprint detection with a shared Web and Bun CLI reference bank",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Native-Alpha-Next",
+   "url": "https://github.com/LeistDev/Native-Alpha-Next",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Meowdoku-macros",
+   "url": "https://github.com/LeistDev/Meowdoku-macros",
+   "text": "A script that automatically passes the levels in the game meowdoku",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": [
+    "android",
+    "automation",
+    "automatizacion",
+    "free",
+    "macroify",
+    "macros",
+    "meowdoku",
+    "script"
+   ]
+  },
+  {
+   "name": "PixelSeed",
+   "url": "https://github.com/LeistDev/PixelSeed",
+   "text": "Pixel avatar generator",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "avatar",
+    "free",
+    "generator",
+    "native",
+    "pixel",
+    "pixel-art",
+    "python"
+   ]
+  },
+  {
+   "name": "SVGify",
+   "url": "https://github.com/LeistDev/SVGify",
+   "text": "CLI tool for fast logo-to-SVG conversion",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "NTE-scripts",
+   "url": "https://github.com/LeistDev/NTE-scripts",
+   "text": "Automation scripts for Neverness to Everness (Android). Runs via Macroify.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": [
+    "android-automation",
+    "automation",
+    "neverness-to-everness",
+    "nte",
+    "script",
+    "macroify"
+   ]
+  },
+  {
+   "name": "ZeroExif",
+   "url": "https://github.com/LeistDev/ZeroExif",
+   "text": "Strip EXIF, GPS, XMP & ICC metadata from images. Selective or full removal. Supports JPG, PNG, WebP, BMP, TIFF. Drag & Drop, Termux-compatible",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "cleaner",
+    "exif",
+    "exiftool",
+    "linux",
+    "python",
+    "remove",
+    "script",
+    "termux",
+    "tui"
+   ]
+  },
+  {
+   "name": "FileCLI",
+   "url": "https://github.com/LeistDev/FileCLI",
+   "text": "Merge selected project files into a single .txt for LLM context (ChatGPT, Claude, Gemini). Zero dependencies, Drag & Drop, remembers your file selection",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "ai",
+    "chat",
+    "chatgpt",
+    "claude",
+    "context",
+    "deepseek",
+    "ernie",
+    "files",
+    "gemini",
+    "gemma"
+   ]
+  },
+  {
+   "name": "PromptCraft",
+   "url": "https://github.com/LeistDev/PromptCraft",
+   "text": "Script that allows AI to create structures in Minecraft",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": [
+    "ai",
+    "artificial-intelligence",
+    "automation",
+    "automatizacion",
+    "build",
+    "builder",
+    "minecraft"
+   ]
+  },
+  {
+   "name": "Datvex-prompt-LAB-site",
+   "url": "https://github.com/LeistDev/Datvex-prompt-LAB-site",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": [
+    "ai",
+    "chatgpt",
+    "claude",
+    "claude-code",
+    "codex",
+    "cursor",
+    "deepseek",
+    "gemini",
+    "prompt",
+    "prompt-engineering"
+   ]
+  },
+  {
+   "name": "Datvex-prompt-LAB",
+   "url": "https://github.com/LeistDev/Datvex-prompt-LAB",
+   "text": "Comprehensive AI Prompt Library: Optimized prompts for ChatGPT, Claude, and Midjourney. Features task-oriented workflows, model guides, and community contributions.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}

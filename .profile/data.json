@@ -1,5 +1,5 @@
 {
- "key": "8c76289a",
+ "key": "3131beb1",
  "stars": 1,
  "contributions": 581,
  "repos": 14,
@@ -241,7 +241,18 @@
    "fork": false,
    "stars": 0,
    "language": "Python",
-   "topics": []
+   "topics": [
+    "agent",
+    "agents",
+    "automation",
+    "browser-automation",
+    "cli",
+    "llm",
+    "llm-fingerprinting",
+    "lmarena",
+    "lmarena-ai",
+    "model-attribution"
+   ]
   },
   {
    "name": "lm-detector",

@@ -1,6 +1,6 @@
 {
- "key": "8527fcb3",
- "stars": 1,
+ "key": "4f56b453",
+ "stars": 2,
  "contributions": 581,
  "repos": 14,
  "followers": 13,
@@ -215,7 +215,7 @@
    "url": "https://github.com/LeistDev/arena-model-hunter",
    "text": "Model hunter for arena.ai: run agent chats, fingerprint the model, rename the chat, keep the one you were hunting for.",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Python",
    "topics": [
     "agent",

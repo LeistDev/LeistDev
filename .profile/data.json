@@ -1,5 +1,5 @@
 {
- "key": "ca813b95",
+ "key": "1cb86bfb",
  "stars": 2,
  "contributions": 610,
  "repos": 15,
@@ -125,14 +125,18 @@
    {
     "c": 0,
     "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
     "today": true
    },
-   null,
    null
   ]
  ],
  "streak": {
-  "current": 5,
+  "current": 0,
   "longest": 13
  },
  "pins": [
